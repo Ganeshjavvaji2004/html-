@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h1>Class time table</h1>
+<h2>CLASS:3 B.Tech.CSE-C  A.Y:2024-25  SEM:2  W.E.F:02-12-24 LH:B1.209</h2>
+<table style="width:100%">
+  <tr>
+    <th >DAY</th>
+    <th>9:00-9:50</th>
+    <th>9:50-10:50</th>
+    <th>10:50-11:40</th>
+    <th>11:40-12:30</th>
+    <th rowspan='7'>12:30-1:20 (LUNCH BREAK)</th>
+    <th>1:20-2:10</th>
+    <th>2:10-3:00</th>
+    <th>3:00-3:50</th>
+  </tr>
+  <tr>
+    <td>MON</TD>
+    <td>BDA</td>
+    <td>CNS</td>
+    <td colspan='2'>CRTP</td>
+    <td>ML</td>
+    <td>CD</td>
+    <td>COUN</td>
+  </tr>
+  <tr>
+    <td>TUE</td>
+     <td>CNS</td>
+    <td colspan='3'>ML-LAB</td>
+     <td>CD</td>
+    <td>IOT</td>
+    <td>BDA</td>
+  </tr>
+  <tr>
+    <td>WED</td>
+    <td>CNS</td>
+    <td>IOT</td>
+    <td>CD</td>
+    <td>ML</td>
+    <td>ES-2</td>
+    <td colspan='2'>CRTP</td>
+  </tr>
+  <tr>
+    <td>THU</td>
+    <td>BDA</td>
+    <td colspan='3'> CD-LAB</td>
+     <td>CNS</td>
+    <td>IOT</td>
+    <td>SOC</td>
+  </tr>
+  <tr>
+    <td>FRI</td>
+    <td>IOT</td>
+    <td>ML</td>
+    <td colspan='2'>CRTP</td>
+    <td colspan='3'>CNS-LAB</td>
+  </tr>
+  <tr>
+    <td>SAT</td>
+    <td>CD</td>
+    <td>ES-2</td>
+    <td>BDA</td>
+    <td>ML</td>
+    <td colspan='3'>MST-LAB</td>
+    
+  </tr>
+  
+</table>
+
+
+</body>
+
+<html>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h3>MST Lab(CSE Lab-1),ML LAB(CSE Lab-1),CD LAB(CSE Lab-1),CNS LAB(CSE Lab-6),</h3>
+
+<table style="width:50%">
+  <tr>
+    <th>Course code</th>
+    <th>Course Name</th>
+    <th>Name of the faculty</th>
+      </tr>
+  <tr>
+  <td>C321</td>
+  <td>Machine Learning</td>
+  <td>Dr G.Syam prasad</td>
+  </tr>
+  <tr> 
+  <td>C322</td>
+  <td>Compiler Design</td>
+  <td>SK AHMED MOHIDDIN</td>
+  </tr>
+<tr>  
+  <td>C323</td>
+  <td>Crypotography and Network security</td>
+  <td> CH SWATHI</td>
+</tr>
+<tr>
+  <td>C324</td>
+  <td>Big Data Analytics</td>
+  <td>N.Anil kumar</td>
+</tr>
+<tr>
+  <td>C325</td>
+  <td>Internet Of Things</td>
+  <td>M.Naga Vamsi</td>
+</tr>
+<tr>
+  <td>C326</td>
+  <td>Machine Learning Using Python Lab</td>
+  <td>M.Naresh Babu/Dr.G.Syam prasad</td>
+</tr>
+<tr>
+  <td>C327</td>
+  <td>Compiler Design Lab</td>
+  <td>SK Ahmed Mohidding/G.Nanchariah</td>
+</tr>
+<tr>
+  <td>C328</td>
+  <td>Crypotography and Network Security Lab</td>
+  <td>CH.Swathi/K V R<</td>
+</tr>
+<tr>
+  <td>C329</td>
+  <td>Mean Stack Lab</td>
+  <td>N.Anil Kumar/Veena/td>
+</tr>
+<tr>
+  <td>C330</td>
+  <td>Employability Skills-2</td>
+  <td>G.Manasa</td>
+</tr>
+<tr>
+  <td>COUN</td>
+  <td>Counseling;</td>
+  <td>M.Naga Vamsi/SK Ahmed Mohiddin</td>
+</body>
+</table>
+</html>
